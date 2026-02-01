@@ -1,5 +1,5 @@
 # 🫀 Heart Disease Detection Model — Python & Machine Learning
-# 📌 Project Overview
+📌 Project Overview
 
 This project presents a machine learning-based heart disease detection system developed in Python using a publicly available Kaggle dataset derived from the UCI Heart Disease repository. The system predicts whether a patient has heart disease based on a comprehensive set of clinical and demographic attributes.
 
